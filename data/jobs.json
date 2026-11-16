@@ -1,0 +1,62 @@
+[
+  {
+    "id": "590fd0dc-e152-45fa-abbd-65c016ad5960",
+    "prompt": "Low-angle tracking shot of a brutalist monolithic structure emerging from coastal morning mist, cold diffused daylight, anamorphic lens flare, slow continuous push-in movement.",
+    "duration": 8,
+    "ratio": "16:9",
+    "image": null,
+    "status": "completed",
+    "videoUrl": "/samples/sample.mp4",
+    "error": null,
+    "createdAt": "2026-11-16T15:42:02.727Z",
+    "updatedAt": "2026-11-16T15:42:11.102Z"
+  },
+  {
+    "id": "ada31349-2b6e-471f-ac7d-cbdcfb006ef1",
+    "prompt": "Low-angle tracking shot of a brutalist monolithic structure emerging from coastal morning mist, cold diffused daylight, anamorphic lens flare, slow continuous push-in movement.",
+    "duration": 8,
+    "ratio": "16:9",
+    "image": null,
+    "status": "completed",
+    "videoUrl": "/samples/sample.mp4",
+    "error": null,
+    "createdAt": "2026-11-16T15:42:28.624Z",
+    "updatedAt": "2026-11-16T15:42:36.943Z"
+  },
+  {
+    "id": "c5e3e5f2-097b-4ff5-a126-7ca1769b6947",
+    "prompt": "Low-angle tracking shot of a brutalist monolithic structure emerging from coastal morning mist, cold diffused daylight, anamorphic lens flare, slow continuous push-in movement.",
+    "duration": 8,
+    "ratio": "16:9",
+    "image": null,
+    "status": "completed",
+    "videoUrl": "/samples/sample.mp4",
+    "error": null,
+    "createdAt": "2026-11-16T15:48:31.359Z",
+    "updatedAt": "2026-11-16T15:48:39.704Z"
+  },
+  {
+    "id": "0711138b-6f98-4691-b437-e3df11986ee1",
+    "prompt": "Low-angle tracking shot of a brutalist monolithic structure emerging from coastal morning mist, cold diffused daylight, anamorphic lens flare, slow continuous push-in movement.",
+    "duration": 5,
+    "ratio": "16:9",
+    "image": null,
+    "status": "completed",
+    "videoUrl": "/samples/sample.mp4",
+    "error": null,
+    "createdAt": "2026-11-16T15:50:25.317Z",
+    "updatedAt": "2026-11-16T15:50:34.128Z"
+  },
+  {
+    "id": "ec1bb736-2385-4aac-bbd8-60fef449515f",
+    "prompt": "haha",
+    "duration": 8,
+    "ratio": "16:9",
+    "image": null,
+    "status": "completed",
+    "videoUrl": "/samples/sample.mp4",
+    "error": null,
+    "createdAt": "2026-11-16T15:52:10.051Z",
+    "updatedAt": "2026-11-16T15:52:18.808Z"
+  }
+]
